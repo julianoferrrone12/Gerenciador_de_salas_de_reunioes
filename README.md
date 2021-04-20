@@ -35,17 +35,17 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## verificar vesao nodejs
+### ✅ Verify node js version
 node -v
 
-### verificar versao npm 
+### ✅ Check npm version
 npm -v
 
-### instalar angular 9
+### ✅ Install angular 9
 npm install -g @angular/cli@9.0.0-rc.7
 
-### verificar versao angular
+### ✅ Check angular version
 ng --version
 
-### criar projeto 
+### ✅ Create project 
 ng new client-room
