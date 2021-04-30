@@ -49,3 +49,7 @@ ng --version
 
 ### ✅ Create project 
 ng new client-room
+
+## 🚩 The End
+
+🌟Antes de sair desse repositório não esqueça de deixar sua "star" ajuda muito e não custa nada!! 🌟
