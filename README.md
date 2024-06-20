@@ -1,7 +1,7 @@
 <h1 align="center">
     Gerenciador de Salas de Reuniões
 </h1>
-<p align="center">🚀 Gerenciador de Salas de Reuniões com angular, projeto desenvolvido em LiveCoding pela Digital Innovation One</p>
+<p align="center">🚀 Gerenciador de Salas de Reuniões com angular</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
 
